@@ -18,8 +18,8 @@ To design a program that checks whether a given message is a palindrome by remov
 ```
 /*
 Program to checks whether a given message is a palindrome by removing all non-alphanumeric characters.
-Developed by: Magesh C M
-RegisterNumber:212223220053
+Developed by: HARIPRASHAAD RA
+RegisterNumber:  212223040060
 */
 
 import java.util.*;
